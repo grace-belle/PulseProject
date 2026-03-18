@@ -20,11 +20,18 @@
  > Tier distribution could have a total amount added, as well as an option to look at percentage of changes from last 6 months
  > User signups highlight needs to be just a little darker 
  > User signups could have a trackign aspect from the last month for a percentage increase or decrease
- > Enterprise color and churned user colors need to be different
- > Pro and new signups need to be different color - new signups can stay since it is reflected in bar graph
-> Free users need to be differnet color from revenue
+
+
 > Instead of just current dates in a period of x to y months, need to be able to select analysis portion
 
 
  Extra time option:
  User retention after 3 months - do users stay on website?
+
+
+
+
+ Completed:
+> Pro and new signups need to be different color - new signups can stay since it is reflected in bar graph
+> Free users need to be differnet color from revenue
+ > Enterprise color and churned user colors need to be different
